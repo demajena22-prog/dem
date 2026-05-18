@@ -1,0 +1,6 @@
+1. Live | 5154620022593790|03|2031|288 | [BIN: 🇺🇸 - mastercard - debit] | Charge OK. [GATE_01@chkr.cc]
+2. Live | 5154620022885535|10|2028|772
+3. 5154620022212409|12|2031|561 | [BIN: 🇺🇸 - mastercard - debit] | Charge OK. [GATE_01@chkr.cc]
+4. Live | |07|2028|239 | [BIN: 🇺🇸 - mastercard - debit] | Charge OK. [GATE_01@chkr.cc]
+5. Live | 5154620022398216|08|2031|656 | [BIN: 🇺🇸 - mastercard - debit] | Charge OK. [GATE_01@chkr.cc]
+6. Live | 5154620022593790|03|2031|288 | [BIN: 🇺🇸 - mastercard - debit] | Charge OK. [GATE_01@chkr.cc]
