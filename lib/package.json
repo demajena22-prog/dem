@@ -1,0 +1,55 @@
+{
+  "name": "telegram-bot-auto-order",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "npm install --production && node index.js",
+    "check-deps": "node scripts/check-deps.js",
+    "setup": "npm install",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "db-check-indexes": "node src/tmp/check_indexes.js",
+    "test-alloc": "node src/tmp/simulate_alloc.js",
+    "test-same-ref": "node src/tmp/simulate_same_ref.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xerdev/TeleDigi.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "engines": {
+    "node": ">=18"
+  },
+  "bugs": {
+    "url": "https://github.com/xerdev/TeleDigi/issues"
+  },
+  "homepage": "https://github.com/xerdev/TeleDigi#readme",
+  "dependencies": {
+    "axios": "^1.12.2",
+    "bcryptjs": "^3.0.3",
+    "dotenv": "^17.4.2",
+    "fs": "^0.0.1-security",
+    "glob": "^13.0.0",
+    "lodash": "^4.17.21",
+    "lowdb": "^2.1.0",
+    "md5": "^2.3.0",
+    "moment-timezone": "^0.6.0",
+    "mongodb": "^6.20.0",
+    "mongoose": "^8.19.1",
+    "node-cron": "^4.2.1",
+    "node-fetch": "^3.3.2",
+    "node-telegram-bot-api": "^0.66.0",
+    "qrcode": "^1.5.4",
+    "strip-comments": "^2.0.1",
+    "tel-connect": "^1.0.2",
+    "@napi-rs/canvas": "^0.1.65",
+    "url": "^0.11.4",
+    "util": "^0.12.5"
+  },
+  "optionalDependencies": {
+    "chokidar": "^4.0.3"
+  }
+}
